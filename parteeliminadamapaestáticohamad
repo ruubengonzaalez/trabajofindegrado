@@ -1,0 +1,123 @@
+                  <div class="image-satellite-ibms">
+<style media="screen,print">
+	#g-mapahamadcityeditado-box ,
+	#g-mapahamadcityeditado-box .g-artboard {
+		margin:0 auto;
+        font-family: 'Public Sans', sans-serif;
+	}
+	#g-mapahamadcityeditado-box p {
+		margin:0;
+	}
+	#g-mapahamadcityeditado-box .g-aiAbs {
+		position:absolute;
+	}
+	#g-mapahamadcityeditado-box .g-aiImg {
+		position:absolute;
+		top:0;
+		display:block;
+		width:100% !important;
+	}
+	#g-mapahamadcityeditado-box .g-aiSymbol {
+		position: absolute;
+		box-sizing: border-box;
+	}
+	#g-mapahamadcityeditado-box .g-aiPointText p { white-space: nowrap; }
+	#g-mapahamadcityeditado-Mesa_de_trabajo_1 {
+		position:relative;
+		overflow:hidden;
+	}
+	#g-mapahamadcityeditado-Mesa_de_trabajo_1 p {
+		font-weight:regular;
+		line-height:14px;
+		height:auto;
+		opacity:1;
+		letter-spacing:0em;
+		font-size:13px;
+		text-align:left;
+		color:rgb(255,255,255);
+		text-transform:none;
+		padding-bottom:0;
+		padding-top:0;
+		mix-blend-mode:normal;
+		font-style:normal;
+		position:static;
+	}
+	#g-mapahamadcityeditado-Mesa_de_trabajo_1 .g-pstyle0 {
+		font-weight:600;
+		height:15px;
+		text-align:center;
+    text-shadow: 0px 0px 4px rgb(0, 0, 0), 0px 0px 8px rgb(0, 0, 0) !important;
+	}
+	#g-mapahamadcityeditado-Mesa_de_trabajo_1 .g-pstyle1 {
+		font-weight:500;
+		line-height:15px;
+		height:16px;
+		font-size:14px;
+		text-align:center;
+        text-shadow: 0px 0px 4px rgb(0, 0, 0), 0px 0px 8px rgb(0, 0, 0) !important;
+	}
+	#g-mapahamadcityeditado-Mesa_de_trabajo_1 .g-pstyle2 {
+		font-weight:600;
+		height:15px;
+		font-size: 12px;
+		text-align:center;
+        text-shadow: 0px 0px 4px rgb(0, 0, 0), 0px 0px 8px rgb(0, 0, 0) !important;
+	}
+
+</style>
+
+<div id="g-mapahamadcityeditado-box" class="ai2html">
+
+	<!-- Artboard: Mesa_de_trabajo_1 -->
+	<div id="g-mapahamadcityeditado-Mesa_de_trabajo_1" class="g-artboard" style="max-width: 920px;max-height: 730px" data-aspect-ratio="1.5" data-min-width="0">
+<div style="padding: 0 0 66.6667% 0;"></div>
+		<img id="g-mapahamadcityeditado-Mesa_de_trabajo_1-img" class="g-mapahamadcityeditado-Mesa_de_trabajo_1-img g-aiImg" alt="" src="mapahamadcityeditado-Mesa_de_trabajo_1.jpg"/>
+		<div id="grupoperiodistas" class="g-elementossvg g-aiAbs g-aiPointText" style="top:17.8644%;margin-top:-14.7px;left:45.3563%;margin-left:-49px;width:98px;">
+			<p class="g-pstyle0">Grupo de</p>
+			<p class="g-pstyle0">periodistas</p>
+		</div>
+		<!--<div id="g-ai0-2" class="g-elementossvg g-aiAbs g-aiPointText" style="top:25.1591%;margin-top:-8.3px;left:21.7175%;margin-left:-54px;width:108px;">
+			<p class="g-pstyle1">Invernadero</p>
+		</div>-->
+		<div id="direccioncanon" class="g-elementossvg g-aiAbs g-aiPointText" style="top:34.5835%;margin-top:-14.7px;left:45.4379%;margin-left:-40.5px;width:81px;">
+			<p class="g-pstyle2">Dirección</p>
+			<p class="g-pstyle2">del blindado</p>
+		</div>
+		<div id="tanque_israel" class="g-elementossvg g-aiAbs g-aiPointText" style="top:67.9%;margin-top:-14.7px;left:44.5097%;margin-left:-35.5px;width:71px;">
+			<p class="g-pstyle0">Tanque</p>
+			<p class="g-pstyle0">israelí</p>
+		</div>
+		<div id="barrio_hamad" class="g-elementossvg g-aiAbs g-aiPointText" style="top:81.9946%;margin-top:-15.8px;left:79.5648%;margin-left:-57px;width:114px;">
+			<p class="g-pstyle1">Barrio</p>
+			<p class="g-pstyle1">Hamad Town</p>
+		</div>
+		
+		            <figcaption class="description-pic">Imagen satelital del lugar donde un tanque israelí abrió fuego contra los periodistas en Jan Yunis. <span class="credits-pic">Google © 2023 Airbus, Maxar Technologies</span></figcaption>
+
+	</div>
+
+</div>
+                         </div>
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         <!--<ul class="accordeon">
+  <li class="accordeon-item">
+    <a href="#" class="accordeon-title">Cómo se verifican las imágenes</a>
+    <div class="accordeon-content"><p>Un vídeo está verificado cuando, de manera independiente, se confirma su autenticidad a través de fuentes abiertas (OSINT). En los casos expuestos en este reporte, las imágenes se han verificado utilizando la geolocalización.</p>
+
+<p>Un ejemplo es el vídeo grabado por Al-Hassan Hamad en el hospital Al-Shifa. Para confirmar que en efecto se trata del complejo médico, en primer lugar se consultan imágenes publicadas en agencias como Getty Images.</p>
+
+<p>Una vez se concluye que es el hospital Al-Shifa, se deben encontrar puntos destacados que ayuden a perimetrar la zona que se quiere verificar. Seleccionados estos puntos, hay que buscarlos a través de imágenes satelitales, en este caso de Google Earth y Bing.</p>
+ <img src="img/imagengeolocalizada.jpg" class="img-accordeon">
+ 
+ <p>Las grabaciones que se identifican como verificadas han seguido este procedimiento o uno similar. Aunque no es posible verificar todas las imágenes, las que aparecen en este reporte han sido contrastadas junto con otras grabaciones que se han publicado en redes sociales.</p>
+ </div>
+  </li>
+
+</ul>-->
